@@ -26,6 +26,7 @@ namespace Awake
             this.Top = SystemParameters.WorkArea.Height - this.Height;
 
             InitializeNotifyIcon();
+            HideWindow();
         }
 
         private void InitializeNotifyIcon()

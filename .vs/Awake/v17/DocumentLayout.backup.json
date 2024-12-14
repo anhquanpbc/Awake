@@ -1,28 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\DEV\\WPF\\Awake\\",
+  "WorkspaceRootPath": "C:\\Users\\anhqu\\source\\repos\\Awake\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7033E395-DED7-46FC-B49C-4B1C1C639BB2}|Awake.csproj|G:\\DEV\\WPF\\Awake\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7033E395-DED7-46FC-B49C-4B1C1C639BB2}|Awake.csproj|c:\\users\\anhqu\\source\\repos\\awake\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7033E395-DED7-46FC-B49C-4B1C1C639BB2}|Awake.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7033E395-DED7-46FC-B49C-4B1C1C639BB2}|Awake.csproj|g:\\dev\\wpf\\awake\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7033E395-DED7-46FC-B49C-4B1C1C639BB2}|Awake.csproj|C:\\Users\\anhqu\\source\\repos\\Awake\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7033E395-DED7-46FC-B49C-4B1C1C639BB2}|Awake.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7033E395-DED7-46FC-B49C-4B1C1C639BB2}|Awake.csproj|g:\\dev\\wpf\\awake\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7033E395-DED7-46FC-B49C-4B1C1C639BB2}|Awake.csproj|C:\\Users\\anhqu\\source\\repos\\Awake\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7033E395-DED7-46FC-B49C-4B1C1C639BB2}|Awake.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Awake||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7033E395-DED7-46FC-B49C-4B1C1C639BB2}|Awake.csproj|g:\\dev\\wpf\\awake\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7033E395-DED7-46FC-B49C-4B1C1C639BB2}|Awake.csproj|c:\\users\\anhqu\\source\\repos\\awake\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7033E395-DED7-46FC-B49C-4B1C1C639BB2}|Awake.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7033E395-DED7-46FC-B49C-4B1C1C639BB2}|Awake.csproj|g:\\dev\\wpf\\awake\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,48 +35,45 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "G:\\DEV\\WPF\\Awake\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anhqu\\source\\repos\\Awake\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "G:\\DEV\\WPF\\Awake\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\anhqu\\source\\repos\\Awake\\App.xaml.cs",
               "RelativeToolTip": "App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T05:38:31.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T05:38:31.574Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Awake",
-              "DocumentMoniker": "G:\\DEV\\WPF\\Awake\\Awake.csproj",
+              "DocumentMoniker": "C:\\Users\\anhqu\\source\\repos\\Awake\\Awake.csproj",
               "RelativeDocumentMoniker": "Awake.csproj",
-              "ToolTip": "G:\\DEV\\WPF\\Awake\\Awake.csproj",
+              "ToolTip": "C:\\Users\\anhqu\\source\\repos\\Awake\\Awake.csproj",
               "RelativeToolTip": "Awake.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-13T14:46:20.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T14:46:20.254Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "G:\\DEV\\WPF\\Awake\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\anhqu\\source\\repos\\Awake\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "G:\\DEV\\WPF\\Awake\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\anhqu\\source\\repos\\Awake\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-13T14:08:21.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T14:08:21.177Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "G:\\DEV\\WPF\\Awake\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anhqu\\source\\repos\\Awake\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "G:\\DEV\\WPF\\Awake\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAqwDwAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\anhqu\\source\\repos\\Awake\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "MainWindow.xaml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T14:08:20.555Z",
               "EditorCaption": ""
@@ -109,9 +103,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "App.xaml",
-              "DocumentMoniker": "G:\\DEV\\WPF\\Awake\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\anhqu\\source\\repos\\Awake\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "G:\\DEV\\WPF\\Awake\\App.xaml",
+              "ToolTip": "C:\\Users\\anhqu\\source\\repos\\Awake\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-13T14:14:15.046Z",
