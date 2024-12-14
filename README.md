@@ -15,7 +15,9 @@ Awake is a simple WPF application designed to keep your system awake. It provide
 ## Download
 
 Download the latest version:
-[Awake.exe](bin/debug/app.publish/Awake.exe)
+[Download Awake.exe](https://github.com/anhquanpbc/Awake/blob/main/bin/Debug/app.publish/Awake.exe)
+
+*Note: If you see the source code instead of a download prompt, click the "Download" button on the right side of the page.*
 
 ## Installation
 
