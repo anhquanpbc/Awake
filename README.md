@@ -12,6 +12,11 @@ Awake is a simple WPF application designed to keep your system awake. It provide
 
 - .NET Framework 4.8
 
+## Download
+
+Download the latest version:
+[Awake.exe](bin/debug/app.publish/Awake.exe)
+
 ## Installation
 
 1. Clone the repository:
@@ -31,8 +36,9 @@ Awake is a simple WPF application designed to keep your system awake. It provide
 - App.xaml and App.xaml.cs: Application startup and resource definitions.
 - MainWindow.xaml and MainWindow.xaml.cs: Main window UI and logic.
 - Properties/: Contains assembly information, resources, and settings.
+
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details. 
+This project is licensed under the MIT License. See the LICENSE file for details.
